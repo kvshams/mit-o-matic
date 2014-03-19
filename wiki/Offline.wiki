@@ -3,13 +3,15 @@ Offline platform of mit-o-matic offers execution of the entire computational pip
 
 The user can use the same script to just parse an already created pileup and save it for future use for analysis of mitochondrial variations with mit-o-matic. Different heteroplasmic frequencies can be set depending on the depth of sample reads. Usually 10% heteroplasmic frequency is considered to be acceptable.
 
-Complete pipeline
+==Complete pipeline==
 <code>
     USAGE: perl mitomatic_offline.pl -t [bowtie/bwa/maq] -o [se/pe] -f [Percentage of heteroplasmic frequency] -d [output directory] -i [input fastq files]
 </code>
-Parsing pileup
+==Parsing pileup==
 <code>
-    USAGE: mitomatic_offline.pl -p [pileup file] -t [bowtie/bwa/maq] -f [Percentage of heteroplasmic frequency]
+    USAGE: mitomatic_offline.pl -p [pileup file] -t [bowtie/bwa/maq] -f [Percentage of heteroplasmic frequency]</code>
+
+<code>
 
  -t Tool to be used for the alignment from BWA, BOWTIE and MAQ
 -o Type of data, whether single end or paired end
