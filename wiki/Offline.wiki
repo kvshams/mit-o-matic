@@ -18,5 +18,5 @@ Parsing pileup
 -I Input fastq file. In case of paired end data mention both the files one after other
 -p For parsing an already generated pileup
 
--h Help
+ -h Help
 </code>
