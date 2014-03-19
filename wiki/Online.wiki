@@ -4,6 +4,6 @@
 Home page of mit-o-matic provides a brief introduction about the tool, the query form and the download links. Offline version of mit-o-matic is available for download on the home page, to parse the pileup file and filter out variations based on heteroplasmic frequencies. The user can either upload or paste the parsed pileup file to submit for the analysis of mitochondrial variations. To get an idea about the report, a submit button has been provided to upload the sample file as well. 
 
 
-= Details =
+== Details ==
 
 Home page of mit-o-matic provides a brief introduction about the tool, the query form and the download links. Offline version of mit-o-matic is available for download on the home page, to parse the pileup file and filter out variations based on heteroplasmic frequencies. The user can either upload or paste the parsed pileup file to submit for the analysis of mitochondrial variations. To get an idea about the report, a submit button has been provided to upload the sample file as well. 
