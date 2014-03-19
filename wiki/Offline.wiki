@@ -11,7 +11,7 @@ Parsing pileup
 <code>
     USAGE: mitomatic_offline.pl -p [pileup file] -t [bowtie/bwa/maq] -f [Percentage of heteroplasmic frequency]
 
--t Tool to be used for the alignment from BWA, BOWTIE and MAQ
+ -t Tool to be used for the alignment from BWA, BOWTIE and MAQ
 -o Type of data, whether single end or paired end
 -f Percentage of heteroplasmic frequency to call the variants [Preferred: 10]
 -d Name of the output directory
