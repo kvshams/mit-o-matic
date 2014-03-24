@@ -2,3 +2,14 @@
 *Report Summary:*
 
 The tool summarizes the report of analysis on top of the output page. Herein, the reference genome being used, the haplogroup corresponding to the input variants and counts of some significant characteristics of the report are described. This includes: 
+
+http://genome.igib.res.in/mitomatic/fig3.png
+
+||Reference sequence: ||Reference genome that has been used for analysis||
+||Number of Variants Uploaded: ||Count of the variants that have been uploaded by the user||
+Number of Variants Mapped: 	Count of the variants that have already been reported in the widely used databases that include mitomap and mtDB.
+Novel Variants: 	The variants that have not been reported as of now in the available databases are considered to be novel.
+Haplogroup: 	It reports the haplogroup to which the uploaded variants belong. This is deciphered from the haplogroup table compiled from the comprehensive phylogenetic tree of global human mitochondrial DNA variation (available at http://www.phylotree.org/builds/mtDNA_tree_Build_15.zip). The haplogroup having the highest number of variants matching to the input variants is reported.
+Disease Associated Variants: 	Number of variants that have been reported to have association with some mitochondrial disease by mitomap (available at http://www.mitomap.org/bin/view.pl/MITOMAP/MutationsCodingControl)
+Number of Heteroplasmic Sites: 	Number of times multiple mutations co-exist in various proportions (>10%) within the mitochondrial DNA.
+Number of Variants with Population Frequency: 	It reports the count of variants for which population frequency could be found. 
