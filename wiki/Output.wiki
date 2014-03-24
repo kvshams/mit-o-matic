@@ -1,4 +1,4 @@
 #labels Featured
-=Report Summary:=
+*Report Summary:*
 
 The tool summarizes the report of analysis on top of the output page. Herein, the reference genome being used, the haplogroup corresponding to the input variants and counts of some significant characteristics of the report are described. This includes: 
