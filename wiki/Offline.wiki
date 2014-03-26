@@ -3,6 +3,18 @@ Offline platform of mit-o-matic offers execution of the entire computational pip
 
 The user can use the same script to just parse an already created pileup and save it for future use for analysis of mitochondrial variations with mit-o-matic. Different heteroplasmic frequencies can be set depending on the depth of sample reads. Usually 10% heteroplasmic frequency is considered to be acceptable.
 
+==Untar the downloaded file:==
+<code> tar -xvzf mitomatic_command-line.tar.gz</code>
+
+==Change directory: ==
+<code>cd mitomatic_command-line</code>
+
+==For 32-bit CPU Architecture:==
+<code> mv bin-32 bin</code>
+
+==For 64-bit CPU Architecture: ==
+<code>mv bin-64 bin</code>
+
 ==Complete pipeline==
 <code>
     USAGE: perl mitomatic_offline.pl -t [bowtie/bwa/maq] -o [se/pe] -f [Percentage of heteroplasmic frequency] -d [output directory] -i [input fastq files]
