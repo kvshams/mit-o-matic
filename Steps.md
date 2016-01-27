@@ -1,0 +1,1 @@
+![http://genome.igib.res.in/mitomatic/flowchart.png](http://genome.igib.res.in/mitomatic/flowchart.png)
